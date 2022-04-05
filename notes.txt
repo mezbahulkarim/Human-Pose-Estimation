@@ -1,0 +1,5 @@
+-opencv to handle image processing, reading video frame by frame 
+-mediapipe to find 'landmarks' on the images 
+
+
+...researching more to understand
