@@ -6,7 +6,7 @@ import time
 
 #%%
 #Load Video 
-vid = cv2.VideoCapture('sample.mp4')
+vid = cv2.VideoCapture('golf.mp4')
 
 # %%      
                 #Frame by Frame Processing
